@@ -1,0 +1,1 @@
+# goku-ui-grub-theme
