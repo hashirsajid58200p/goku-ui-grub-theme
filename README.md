@@ -1,17 +1,17 @@
-## Goku Ultra Instinct
+## Goku UI Preview
 
-![Forest Dawn Preview](preview.jpg)
+![Goku UI](preview.jpg)
 
 ---
 
 ## 📥 Installation Instructions
 **Step 1: Clone the theme repo**
 ```bash
-git clone https://github.com/hashirsajid58200p/forest-dawn-grub-theme.git
+git clone https://github.com/hashirsajid58200p/goku-ui-grub-theme.git
 ```
 **Step 2: Go inside the theme folder**
 ```bash
-cd forest-dawn-grub-theme
+cd goku-ui-grub-theme
 ```
 **Step 3. Run the installer script**
 ```bash
